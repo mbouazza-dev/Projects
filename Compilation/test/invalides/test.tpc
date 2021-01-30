@@ -1,0 +1,17 @@
+/* test-table-symboles.tpc */
+
+/* Test file for simplified translator of a declaration of variables in C */
+int r1,b,s,c,r2;
+char letter, digit, punct;
+
+int test(int ok){
+	int ok;
+	return 1;
+}
+
+int main(void){
+  r2=24;
+  b=r1+r2;
+  punct='.';
+  return b;
+}

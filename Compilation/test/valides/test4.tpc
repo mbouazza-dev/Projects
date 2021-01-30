@@ -1,0 +1,10 @@
+int a, somme;
+    
+int main(void)  {
+  int b;
+  a = 1;
+  b = 6;
+  somme = a + b;
+  print(somme);
+  return 0;
+}
