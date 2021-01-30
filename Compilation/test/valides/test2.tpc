@@ -1,0 +1,18 @@
+int i,d, k;
+char  letter, digit,punct;
+int h,a,b;
+int c, *u, v;
+int *e,f,x;
+char y, t,quoi;
+char ou;
+
+int main(void)  {
+	k = 1;
+	punct = '.';
+	b = 0;
+	v = 33 + b;
+	x = 6;
+	quoi = 'a';
+	letter = 'a';
+	return 0;
+}
