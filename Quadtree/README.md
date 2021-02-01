@@ -1,6 +1,9 @@
 ### Quadtree
 **written in c**
 
+### Prerequisites
+In order to launch the game you need to install the The [MLV library](http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation.html) which is a simplified multimedia library.
+
 ### PURPOSE OF THE DUTY
 Make a quadTree command with the following manual page: 
 
